@@ -27,3 +27,7 @@
 .container{
   width: 1000px !important;
 }
+
+.MuiAppBar-colorPrimary{
+  background-color: rgb(160, 5, 5) !important;
+}
