@@ -1,0 +1,29 @@
+.w3-lobster {
+  font-family: "Lobster", serif;
+}
+.card-img-top{
+  width: 25% !important;
+}
+
+.MuiCardMedia-media {
+  width: 20% !important;
+  margin-top: -50px !important;
+}
+.mt{
+  margin-top: 100px;
+}
+.MuiCardContent-root {
+  margin-left: 61px;
+}
+.MuiCard-root {
+  /* overflow: hidden; */
+  /* padding: 13px !important;  */
+  margin: -4px;
+  height: 80px;
+}
+.mb-5{
+  font-size: 25px;
+}
+.container{
+  width: 1000px !important;
+}
